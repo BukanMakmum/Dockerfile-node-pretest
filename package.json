@@ -1,0 +1,14 @@
+{
+  "name": "pretest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "imam sayuti, S.Tr.Kom. <imamsyt22@mhs.usk.ac.id>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
