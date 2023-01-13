@@ -1,21 +1,21 @@
 # Dockerfile node.js
 Menyiapkan Dockerfile untuk supaya bisa dilakukan build aplikasi Node.js menjadi image docker (Ubuntu 22.10)
 
-build image
+1. build image
 ```
 $ docker build -t pretest-image .
 ```
 
-run image:
+2. run image:
 ```
 $ docker run pretest-image
 ```
 
-run container:
+3. run container:
 ```
 $ docker run --name MyContainer -it pretest-image bash
 ```
-uji melalui terminal:
+4. uji melalui terminal:
 ```
 curl -v localhost:3000
 ```
