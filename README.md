@@ -1,5 +1,5 @@
 # Dockerfile node.js
-
+Menyiapkan Dockerfile untuk supaya bisa dilakukan build aplikasi Node.js menjadi image docker (Ubuntu 22.10)
 
 build image
 ```
