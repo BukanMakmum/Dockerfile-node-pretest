@@ -24,4 +24,5 @@ atau uji melalui browser, akses:
 http://localhost:3000
 ```
 Screenshots 
-(https://bit.ly/3CJ9dG6)
+![Screenshots](https://user-images.githubusercontent.com/32379649/212533715-b781e398-e6b3-49ef-8852-423d8b5799db.jpeg)
+
